@@ -2,4 +2,4 @@
 logs
 *.log
 !.gitignore
-!My Games
+!/My Games
